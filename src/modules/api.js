@@ -15,7 +15,7 @@ export const getLikes = async () => {
 
   return response;
 };
-
+// ikoote
 export const postLikes = async (id) => {
   await fetch(users, {
     method: 'POST',
