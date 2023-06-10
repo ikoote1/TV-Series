@@ -4,7 +4,7 @@
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
 
-  <h3><b>Javascript Capstone</b></h3>
+  <h3><b>TV-Series</b></h3>
 
 </div>
 
@@ -146,7 +146,7 @@ The project has been deployed with Github pages. You can visit the link [here](h
 👤 **Ikoote Rasuli**
 
 - GitHub: [@githubhandle](https://github.com/ikoote1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ikoote-rasuli-479545246/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ikoote-rasuli/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
