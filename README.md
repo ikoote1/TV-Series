@@ -135,7 +135,7 @@ To run the project, execute the following command:
 ```
 ### Deployment
 
-The project has been deployed with Github pages. You can visit the link [here](https://ikoote1.github.io/TV-Series/dist/)
+The project has been deployed with Github pages. You can visit the link [here](https://github.com/ikoote1/TV-Series.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
