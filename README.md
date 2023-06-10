@@ -66,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://ikootepreim.github.io/TV-Series/dist/)
+- [Live Demo Link](https://ikoote1.github.io/TV-Series/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
